@@ -1,0 +1,33 @@
+body{
+    background-color: #33FFE6;
+}
+span{
+  border:black 3px;
+   border-radius: 4px;
+
+}
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200px;
+    font-size: large;
+}
+.table-container {
+    margin-top: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #C3FBF4 ;
+  }
+  
+  table th,
+  table td {
+    padding: 8px;
+    border: 1px solid #ddd;
+  }
+  
+  table th {
+    background-color:#f2f2f2;
+}
